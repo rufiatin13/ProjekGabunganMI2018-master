@@ -1,0 +1,4 @@
+		{{csrf_fied()}}
+
+		nomor_surat:<input type = "text" name = "nomor_surat" value="{{$surat_keluar->nomor_surat}}"><br>
+		perihal:<input type
